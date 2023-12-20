@@ -11,7 +11,7 @@ This repo is to document my leaning journey of JavaScript
 - object : It can store key value pairs.
 
 # Variables 
-- Date is set to or as variables.
+- Data is set to or as variables.
 - A lable to point to anyting it has been assigned to.
 
 # Variable Declearation 
