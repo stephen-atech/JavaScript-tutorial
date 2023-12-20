@@ -49,3 +49,8 @@ eg:
 - Adding numbers in Javascript is done using the '+' opperator
 eg:
    var sum = 10 + 10;
+
+# Subtracting Numbers
+- Subtraction in Javascript is done using the '-' opperator
+eg:
+   var sum = 30 - 10;
