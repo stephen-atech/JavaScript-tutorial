@@ -23,3 +23,10 @@ eg:
    var a; 
    let b; 
    const c;
+
+# Vsrible Assignment 
+- This is when the variable b=decleared is giving a value
+eg: 
+   var a = 1; 
+   let b = 2; 
+   const c = 3;
