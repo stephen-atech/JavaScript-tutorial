@@ -53,7 +53,7 @@ eg:
 # Subtracting Numbers
 - Subtraction in Javascript is done using the '-' opperator
 eg:
-   var sum = 30 - 10;
+   var sub = 30 - 10;
 
 # Multiplying Numbers
 - Multiplication in Javascript is done using the '*' opperator
