@@ -9,3 +9,7 @@ This repo is to document my leaning journey of JavaScript
 - symbol : A unique value.
 - number : An integer or a number.
 - object : It can store key value pairs.
+
+# Variables 
+- Date is set to or as variables.
+- A lable to point to anyting it has been assigned to.
