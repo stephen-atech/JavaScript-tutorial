@@ -13,3 +13,13 @@ This repo is to document my leaning journey of JavaScript
 # Variables 
 - Date is set to or as variables.
 - A lable to point to anyting it has been assigned to.
+
+# Variable Declearation 
+- var, let and const are the ways to declear variables in Javascript
+- var : It works in the global scope of the program, it can work anywhere 
+- let : It works in the local scope of the program, it only works in the scope it was decleared 
+- const : It's value when assigned can never be changed
+eg: 
+   var a; 
+   let b; 
+   const c;
