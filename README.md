@@ -15,6 +15,7 @@ This repo is to document my leaning journey of JavaScript
 - A lable to point to anyting it has been assigned to.
 
 # Variable Declearation 
+- These are variables the are decleared but have not been assigned a value
 - var, let and const are the ways to declear variables in Javascript
 - var : It works in the global scope of the program, it can work anywhere 
 - let : It works in the local scope of the program, it only works in the scope it was decleared 
@@ -25,7 +26,7 @@ eg:
    const c;
 
 # Vsrible Assignment 
-- This is when the variable b=decleared is giving a value
+- This is when the variable decleared is giving a value
 eg: 
    var a = 1; 
    let b = 2; 
@@ -33,3 +34,13 @@ eg:
 
 # Loging 
 - console.log() : this is a function for checking the values of variables or loging data in the console.
+
+# Case Senitivity in Variables
+- Varible and function names in Javascript are case sensitve
+eg:
+   var UserName; is not equal to var USERNAME
+   ie, the are two different variables
+- NB : Camel case is mostly used in Javascript variable declearations
+eg:
+   var userName;
+   var studentDetails;
