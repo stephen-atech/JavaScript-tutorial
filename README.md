@@ -59,3 +59,8 @@ eg:
 - Multiplication in Javascript is done using the '*' opperator
 eg:
    var sum = 10 * 2;
+
+# Dividing Nubers 
+- Division in Javascript is done using the '/' opperator
+eg:
+   var div = 40 / 2;
