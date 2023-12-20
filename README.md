@@ -44,3 +44,8 @@ eg:
 eg:
    var userName;
    var studentDetails;
+
+# Adding Numbers
+- Adding numbers in Javascript is done using the '+' opperator
+eg:
+   var sum = 10 + 10;
