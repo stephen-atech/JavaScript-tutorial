@@ -70,3 +70,9 @@ eg:
 eg:
    var inc = 19;
    inc = inc++ or inc = inc + 1
+
+# Decrementing Numbers 
+- Decreaseing numbers in Javascript is done by subtracting 1 or uing the '--'
+eg:
+   var dec = 21;
+   dec = dec-- or dec = dec - 1
