@@ -64,3 +64,9 @@ eg:
 - Division in Javascript is done using the '/' opperator
 eg:
    var div = 40 / 2;
+
+# Incrementing Numbers 
+- Increaseing numbers in Javascript is done by adding 1 or uing the '++'
+eg:
+   var inc = 19;
+   inc = inc++ or inc = inc + 1
