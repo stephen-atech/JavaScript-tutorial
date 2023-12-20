@@ -30,3 +30,6 @@ eg:
    var a = 1; 
    let b = 2; 
    const c = 3;
+
+# Loging 
+- console.log() : this is a function for checking the values of variables or loging data in the console.
