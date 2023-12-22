@@ -82,3 +82,8 @@ eg:
 eg:
    var ourDecimal = 5.7;
    var myDecimal = 0.009;
+
+# Multiplying Decimal Numbers
+- Multiplying Decimals is equal to multiplying whole numbers 
+eg:
+   var product = 2.0 * 2.5;
