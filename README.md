@@ -93,8 +93,14 @@ eg:
 eg:
    var quotient = 4.4 / 2.0;
 
-#finding a Reminder 
+# Finding a Reminder 
 - THe remainder operator is represented by '%', and gives the remainder of the division of two numbers 
 eg:
    var remainder;
    remainder = 11 % 3;
+
+# Compund Assignment with Augmented Addition and Subtraction
+eg: 
+   var a = 8;
+   a = a + 12  a = a - 5
+   => a += 12  a -= 5
