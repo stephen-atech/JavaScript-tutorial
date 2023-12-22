@@ -92,3 +92,9 @@ eg:
 - Dividing Decimals is equal to dividing whole numbers
 eg:
    var quotient = 4.4 / 2.0;
+
+#finding a Reminder 
+- THe remainder operator is represented by '%', and gives the remainder of the division of two numbers 
+eg:
+   var remainder;
+   remainder = 11 % 3;
