@@ -76,3 +76,9 @@ eg:
 eg:
    var dec = 21;
    dec = dec-- or dec = dec - 1
+
+# Decimal Numbers
+- They are refered to as Floating Point Numbers or Floats
+eg:
+   var ourDecimal = 5.7;
+   var myDecimal = 0.009;
