@@ -87,3 +87,8 @@ eg:
 - Multiplying Decimals is equal to multiplying whole numbers 
 eg:
    var product = 2.0 * 2.5;
+
+# Dividing Decimal Numbers
+- Dividing Decimals is equal to dividing whole numbers
+eg:
+   var quotient = 0.0 / 2.0;
