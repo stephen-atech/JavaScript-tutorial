@@ -110,3 +110,9 @@ eg:
    var a = 8;
    a = a * 12  a = a / 5
    => a *= 12  a /= 5
+
+# Declear String Variables
+eg: 
+   var firstName = "Alan";
+   var lastName = "Turing";
+- Escape characters are used to escape 
