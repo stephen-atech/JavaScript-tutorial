@@ -104,3 +104,9 @@ eg:
    var a = 8;
    a = a + 12  a = a - 5
    => a += 12  a -= 5
+
+# Compund Assignment with Augmented Multiplication and Division
+eg: 
+   var a = 8;
+   a = a * 12  a = a / 5
+   => a *= 12  a /= 5
