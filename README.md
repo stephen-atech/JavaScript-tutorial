@@ -91,4 +91,4 @@ eg:
 # Dividing Decimal Numbers
 - Dividing Decimals is equal to dividing whole numbers
 eg:
-   var quotient = 0.0 / 2.0;
+   var quotient = 4.4 / 2.0;
