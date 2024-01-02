@@ -115,4 +115,8 @@ eg:
 eg: 
    var firstName = "Alan";
    var lastName = "Turing";
-- Escape characters are used to escape 
+
+# Escaping Literal Quate in Strings
+- Escape characters are used to escape default JS built in sysmnbols
+eg:
+   var str = "Hello, is \"Hi\", is what he siad"
