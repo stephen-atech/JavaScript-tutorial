@@ -190,3 +190,8 @@ eg:
 eg:
    third position
    myStr[2]
+
+# Bracket Notation to FInd the Last Character in  String
+- This is achived with the help of the ".length" object
+eg:
+   myStr[myStr.lenght -1]
