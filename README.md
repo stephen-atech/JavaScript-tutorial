@@ -147,3 +147,9 @@ eg:
 eg:
    var ourStr = "I come first. "
    ourStr += "I come second. "
+
+# Constructing Strings with Variables
+- Varibles can be used in strings to make things easy if a data is going to be used in the code multiple times or data would be updated by the uses, it is decleared as a variable.
+eg:
+   var ourName = "freeCodeCamp";
+   var ourString = "Hllo, our name is " + ourName + ", hoe are you?"
