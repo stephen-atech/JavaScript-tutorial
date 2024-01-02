@@ -195,3 +195,7 @@ eg:
 - This is achived with the help of the ".length" object
 eg:
    myStr[myStr.lenght -1]
+
+# Sort Multiple Data with Array
+- Arrays allows to store several peices of data in one place.
+eg: var ourArray = ["John", 23]
