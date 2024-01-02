@@ -168,3 +168,11 @@ eg:
    var nameLen = 0
    var name = "Stephen"
    nameLen = name.lenght
+
+# Bracket Notation
+- Javascript count from 0
+eg: 
+   var firstLetter = ""
+   var name = "Stephen"
+   firstLetter = name[0]
+   this will return "S"
