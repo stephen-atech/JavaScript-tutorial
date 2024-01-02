@@ -124,8 +124,8 @@ eg:
 # Quating Strings Using Single Quates
 - To avoid using escape characters, Javascript can use single quates or backticks instead os double, the the double quates can be used in the straing variable without escaping the characters
 eg:
-   - var strSingleQuates = 'Hello, is "Hi", is what he siad'
-   - var strSingleQuatesBackTicks = `Hello, is "Hi", is what he siad`
+   - var strSingleQuates = 'Hello, "Hi", is what he siad'
+   - var strSingleQuatesBackTicks = `Hello, "Hi", is what he siad`
 
 # Escaping Sequence in Strings
 - Code Output 
