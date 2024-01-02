@@ -204,3 +204,8 @@ This repo is to document my leaning journey of JavaScript
 - When an array has an array to be one of its elements, it is called a nested array or a multidimentional array
    eg:
    var ourArray = [["John", 23] ,["Guru", 24]]
+
+# Access Array Data
+- Array data can be accessed using the index of the array elements 
+   eg: myArray[0]
+   this returns - "John", 23
