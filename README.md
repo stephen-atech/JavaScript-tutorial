@@ -203,4 +203,4 @@ This repo is to document my leaning journey of JavaScript
 # Nested Array
 - When an array has an array to be one of its elements, it is called a nested array or a multidimentional array
    eg:
-    vsr ourArray = [["John", 23] ,["Guru", 24]]
+   var ourArray = [["John", 23] ,["Guru", 24]]
