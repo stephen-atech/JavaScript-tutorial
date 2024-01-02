@@ -215,3 +215,8 @@ This repo is to document my leaning journey of JavaScript
 - Array index can be used to modify arrays 
    eg:
    myArray[0] = ["Stephen", 23]
+
+# Accessing Multidimentional Array with Index
+   eg: var ourArray = [["John", 23] ,["Guru", 24]]
+   ourArray[0][1]
+   this returns - ["Guru", 24]
