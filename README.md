@@ -176,3 +176,11 @@ eg:
    var name = "Stephen"
    firstLetter = name[0]
    this will return "S"
+
+# String Immutability
+- Strings can not be altered once created but can be changed
+eg:
+   var myStr = "Jello"
+   myStr[0] = "H"
+   this will not work do this instead
+   myStr = "Hello"
