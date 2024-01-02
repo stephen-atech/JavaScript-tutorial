@@ -126,3 +126,14 @@ eg:
 eg:
    - var strSingleQuates = 'Hello, is "Hi", is what he siad'
    - var strSingleQuatesBackTicks = `Hello, is "Hi", is what he siad`
+
+# Escaping Sequence in Strings
+- Code Output 
+eg:
+   \' - Single quote
+   \" - double quote 
+   \\ - backslash
+   \n - newline
+   \t - tab
+   \b - backspace
+   \f - form feed 
