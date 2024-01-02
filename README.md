@@ -120,3 +120,8 @@ eg:
 - Escape characters are used to escape default JS built in sysmnbols
 eg:
    var str = "Hello, is \"Hi\", is what he siad"
+
+# Quating Strings Using Single Quates
+- To avoid using escape characters, Javascript can use single quates instead os double, the the double quates can be used in the straing variable without escaping the characters
+eg:
+   - var strSingleQuates = 'Hello, is "Hi", is what he siad'
