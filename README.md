@@ -184,3 +184,9 @@ eg:
    myStr[0] = "H"
    this will not work do this instead
    myStr = "Hello"
+
+# Bracket Notation to FInd Nth Character in  String
+- Using the bracket notation one can find the position of the characters.
+eg:
+   third position
+   myStr[2]
