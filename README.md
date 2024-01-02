@@ -136,4 +136,9 @@ eg:
    \n - newline
    \t - tab
    \b - backspace
-   \f - form feed 
+   \f - form 
+   
+# Concatenating Strings with the Addition Operator
+- String concatenation is the joining of two stings avd variable 
+eg:
+   var ourStr = "I come first. " + "I come second."
