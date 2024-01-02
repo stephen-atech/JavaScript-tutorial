@@ -160,3 +160,11 @@ eg:
    var anAdjective = "awesome!"
    var ourString = "freeCoedCamp is "
    ourStr += anAdjective
+
+# Finding Lenght of Sring
+- This is the use of a built in Javascript function to know the number of characters in a string. 
+
+eg:
+   var nameLen = 0
+   var name = "Stephen"
+   nameLen = name.lenght
