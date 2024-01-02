@@ -153,3 +153,10 @@ eg:
 eg:
    var ourName = "freeCodeCamp";
    var ourString = "Hllo, our name is " + ourName + ", hoe are you?"
+
+# Appending Variables to String
+- Appending is when a variable is already created but it is updated t=with another variable.
+eg:
+   var anAdjective = "awesome!"
+   var ourString = "freeCoedCamp is "
+   ourStr += anAdjective
