@@ -142,3 +142,8 @@ eg:
 - String concatenation is the joining of two stings avd variable 
 eg:
    var ourStr = "I come first. " + "I come second."
+
+# Concatenating String with Plus Equals Operator 
+eg:
+   var ourStr = "I come first. "
+   ourStr += "I come second. "
