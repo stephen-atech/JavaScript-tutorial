@@ -205,7 +205,13 @@ This repo is to document my leaning journey of JavaScript
    eg:
    var ourArray = [["John", 23] ,["Guru", 24]]
 
-# Access Array Data
+# Access Array Data with Index
 - Array data can be accessed using the index of the array elements 
-   eg: myArray[0]
+   eg: 
+   myArray[0]
    this returns - "John", 23
+
+# Modify Array Data with Index
+- Array index can be used to modify arrays 
+   eg:
+   myArray[0] = ["Stephen", 23]
